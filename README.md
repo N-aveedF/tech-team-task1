@@ -2,7 +2,7 @@
 
 This is a responsive, Bitly-like URL shortening service built with **FastAPI** and **SQLite**. It fulfills all core requirements and several optional bonus features.
 
- **Live Demo:** [Insert your live link here once hosted - or remove this line]
+ ## Live Demo: [https://tech-team-task1.onrender.com]
 
 ##  Features Implemented
 * Generate short URLs from long URLs
